@@ -9,7 +9,7 @@
 .background{
     background-image: url(foto1.png);
     background-size: cover;
-    background-position: center;
+    background-position:center;
     height: 100vh;
     width: 100%;
 
@@ -24,12 +24,13 @@ nav{
     padding-right: 8%;
 }
 
-.logo{
-    color: rgb(255, 251, 251);
-    font-size: 35px;
-    cursor: pointer;
-    letter-spacing: 1px;
-}
+    h2{
+        color: blanchedalmond;
+        font-size: 40px;
+        cursor: pointer;
+        letter-spacing: 2px;
+    }
+
 span{
     color: #4f0bed;
 }
@@ -37,7 +38,8 @@ span{
 nav ul li{
     list-style-type: none;
     display: inline-block;
-    padding: 10px  25px;
+    padding: 30px  25px;
+    margin-top: 0%;
 }
 
 nav ul li a{
@@ -81,7 +83,7 @@ nav ul li a:hover{
 h1{
     color: #fff;
     margin: 20px 0px 20px;
-    font-size: 75px;
+    font-size: 40px;
 }
 
 h4{
